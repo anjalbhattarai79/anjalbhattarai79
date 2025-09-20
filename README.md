@@ -1,60 +1,27 @@
-# 👋 Hi, I'm Anjal Bhattarai 
-### 🎓 Aspiring AI Engineer | 💻 Software Developer | 🚀 Lifelong Learner
+# 👋 Hi, I’m Anjal Bhattarai  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anjal-bhattarai-9b309b319)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/anjalbhattarai79))
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjalbhattarai79@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourprofile/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yourprofile)
+🎓 Second-year **Computing with AI** student at *Islington College*  
+🤖 Passionate about **AI, NLP, and Large Language Models**  
+💡 Always curious, building projects that turn ideas into reality  
 
 ---
 
-## 🧠 About Me
-I'm a Computer Science undergraduate specializing in Artificial Intelligence with a passion for building intelligent systems. My technical foundation includes:
-- 💡 Strong grasp of Data Structures & Algorithms (Java/Python)
-- 🧮 Expertise in Python for AI & Data Science (NumPy, Pandas, Matplotlib, Scikit-learn)
-- 🤖 Experience building end-to-end AI solutions
-- ⚙️ Proficient with developer tools: Git, Linux, Docker, AWS Cloud
-
-**Current Focus:**
-- 🔍 Deepening my knowledge in Deep Learning and NLP
-- 🛠️ Building production-ready ML systems
-- 🎯 Preparing for competitive programming contests
-- 🌱 Learning [New Skill/Tech You're Learning]
+### 🚀 What I’m up to
+- Learning **DSA in Java** & expanding skills in **Python for AI**  
+- Exploring **Machine Learning** with real-world applications  
+- Building projects around APIs, automation, ML prototypes  and GenAI.
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Data Science & AI**  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Tech I Use
+- **Languages:** Java, Python, SQL, HTML/CSS  
+- **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, LangChain  
+- **Tools:** Git/GitHub, Docker, FastAPI, n8n  
 
 ---
 
-
-
-## 📫 Let's Connect
-💬 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate  
-
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anjal-bhattarai-9b309b319)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:anjalbhattarai79@gmail.com)
+### 🌐 Connect
+- [GitHub Profile](https://github.com/anjalbhattarai79)  
 
 ---
-
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie  
-
-Thanks for visiting my profile! ✨ Don't forget to ⭐ your favorite repositories.
+✨ *Always learning. Always building.*  
