@@ -1,10 +1,10 @@
 # 💫 About Me:
-💻 I'm currently working on building practical AI, NLP, and machine learning projects, including RAG-based chatbots, data pipelines, and end-to-end ML applications.
-🤝 I'm looking to collaborate on machine learning, AI engineering, or anything involving Python, FastAPI, or NLP.
-🙋 I'm looking for help with exploring advanced Agentic AI projects and best practices for deploying in production.
-📚 I'm currently pursing BSc. (hons) Computing with Artificial Intelligence
-❓ Ask me about Python, FastAPI, Machine Learning fundamentals, NumPy, Pandas, APIs, and creating hands-on real-world AI projects.
-✨ Fun fact : I transitioned from Java beginner to building intelligent AI systems, and I’m now exploring the future of agentic AI 🚀
+💻 I'm currently working on building practical AI, NLP, and machine learning projects, including RAG-based chatbots, data pipelines, and end-to-end ML applications.<br>
+🤝 I'm looking to collaborate on machine learning, AI engineering, or anything involving Python, FastAPI, or NLP.<br>
+🙋 I'm looking for help with exploring advanced Agentic AI projects and best practices for deploying in production.<br>
+📚 I'm currently pursing BSc. (hons) Computing with Artificial Intelligence<br>
+❓ Ask me about Python, FastAPI, Machine Learning fundamentals, NumPy, Pandas, APIs, and creating hands-on real-world AI projects.<br>
+✨ Fun fact : I transitioned from Java beginner to building intelligent AI systems, and I’m now exploring the future of agentic AI 🚀<br>
 
 
 ## 🌐 Socials:
